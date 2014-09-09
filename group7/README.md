@@ -6,10 +6,9 @@ Go to website.
 
 ###Group Info
 
-[Group Mascot]
+[Group Mascot]---Wireless Group
 
-Group Name:
+Group Name:7
 
 Members:
-* Member 1
-* Member 2
+* Member 1-Afrin
